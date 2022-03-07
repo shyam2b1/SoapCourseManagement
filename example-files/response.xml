@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns = "http://www.spring-shyam-demo.com" 
+xsi:schemaLocation="http://www.spring-shyam-demo.com soap-schema.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CourseDetails>
+		<id>151</id>
+		<name>spring course Demo</name>
+		<description>This course gives a demo about Spring Boot	</description>
+	</CourseDetails>
+</GetCourseDetailsResponse>
